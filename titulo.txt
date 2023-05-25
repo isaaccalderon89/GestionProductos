@@ -1,0 +1,1 @@
+16. Desarrollar un microservicio para un sistema de gestión de inventario de una tienda. Debe permitir agregar, actualizar, eliminar y obtener productos del inventario, así como realizar consultas por cantidad disponible.
